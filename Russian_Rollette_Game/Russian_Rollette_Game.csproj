@@ -95,9 +95,6 @@
     <None Include="Resources\k4.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="bin\Debug\blank.wav" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\sound.wav" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
